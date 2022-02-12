@@ -46,10 +46,10 @@ Here are some shots of the final result. In the end I would've liked to add in m
 ![live-project-snip-15](https://user-images.githubusercontent.com/92751822/153731828-3ef9a64e-827c-4168-9ad5-c373e7a93f57.png)
 
 ## Skills Learned
-*Working in a Agile environment with other developers in creating a project together.
--Connecting through Discord for Daily Stand-ups and helping each other with debugging.
--Using the PyCharm IDE, very useful.
--Using Chrome Dev Tools to pinpoint bugs and help with styling.
--Learning to parse and navigate the data structure with Beautiful Soup.
--Installing a REST API. Learning about parameters, parsing JSON, headers, etc. 
--Version control with Git. Merging, conflicts, branching, and migrations.
+- Working in a Agile environment with other developers in creating a project together.
+- Connecting through Discord for Daily Stand-ups and helping each other with debugging.
+- Using the PyCharm IDE, very useful.
+- Using Chrome Dev Tools to pinpoint bugs and help with styling.
+- Learning to parse and navigate the data structure with Beautiful Soup.
+- Installing a REST API. Learning about parameters, parsing JSON, headers, etc. 
+- Version control with Git. Merging, conflicts, branching, and migrations.
