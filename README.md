@@ -1,15 +1,23 @@
 # Python Live Project 
 
 ## Introduction
-In February of 2022, I worked with other students in the Tech Academy designing a web site using the Django Framework in PyCharm. We each contributed to our own portions of the site by designing pages with various functionality. It was my first experience in DevOps, CI/CD, using boards, and a deeper dive into version control. The page I built utilized a simple API and some web scraping both that were completely new to me and had to do some research on to get implemented. I'm excited to use these tools again and learn some more about them in the future.
+In February of 2022, I worked with other students in the Tech Academy designing a web site using the Django Framework in PyCharm. We each contributed to our own portions of the site by designing pages with various functionality. It was my first experience using MicroSoft's Azure DevOps, CI/CD, using boards, and a deeper dive into version control. The page I built utilized an API from RapidAPI's and some web scraping from Beautiful Soup, both that were completely new to me and had to do some research on to get implemented. I'm excited to use these tools again and learn some more about them in the future.
+
+### Tools For the Project:
+* Pycharm (Python)
+* Django
+* Bootstrap 5
+* Beautiful Soup
+* RapidAPI
+* HTML/JS/CSS
 
 Below are some code snippets with a description of various parts of CRUD functionality of the project:
 
 ### Create
-Here I began my first story with creating some models. My idea was to create a website that motorcycle riders could go in and create their motorcycle to rate.
+Here I began my first story with creating some models. My idea was to create a website that motorcycle riders could go in and create their motorcycle to rate. I started with setting up the different files i would need. The HTML page, Views, URL, Settings, Admin pages, etc.
 ![live-project-snip-5](https://user-images.githubusercontent.com/92751822/153731600-baf92e22-3403-4ac5-8fce-ea06efd81759.png)
 
-Then I added in different functions.
+Then I added in different functions, and created my database/models for motorcycle and route creation by the user.
 ![live-project-snip-1](https://user-images.githubusercontent.com/92751822/153731580-d7380e23-fd01-426c-a1d7-cd36d8c3fe6a.png)
 
 Also some pathing to the various HTML pages for the site.
@@ -36,7 +44,7 @@ With some time left, I was able to put in a REST API from GEOCity_dB that sugges
 ![live-project-snip-6_LI](https://user-images.githubusercontent.com/92751822/153731635-5d240170-4338-42f8-8666-df9854c84d20.jpg)
 
 ### Results
-Here are some shots of the final result. In the end I would've liked to add in more functions and maybe another API but I'm pretty happy with my first go.
+Here are some shots of the final result.
 ![live-project-snip-16](https://user-images.githubusercontent.com/92751822/153731855-9e28fe74-35b5-44f0-a999-0f9f5bf230d4.png)
 
 
@@ -46,7 +54,7 @@ Here are some shots of the final result. In the end I would've liked to add in m
 ![live-project-snip-15](https://user-images.githubusercontent.com/92751822/153731828-3ef9a64e-827c-4168-9ad5-c373e7a93f57.png)
 
 ## Skills Learned
-- Working in a Agile environment with other developers in creating a project together.
+- Working in a Agile environment with other developers in creating a project together with Azure DevOps.
 - Connecting through Discord for Daily Stand-ups and helping each other with debugging.
 - Using the PyCharm IDE, very useful.
 - Using Chrome Dev Tools to pinpoint bugs and help with styling.
